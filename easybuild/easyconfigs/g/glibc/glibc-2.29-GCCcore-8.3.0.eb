@@ -16,7 +16,6 @@ checksums = ['f3eeb8d57e25ca9fc13c2af3dae97754f9f643bc69229546828e3a240e2af04b']
 builddependencies = [
     ('binutils', '2.32'),
     ('make', '4.2.1'),
-    ('texinfo', '6.7'),
     ('Bison', '3.3.2'),
     ('Python', '3.7.4'),
 ]
